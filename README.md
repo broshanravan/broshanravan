@@ -1,5 +1,5 @@
 - 👋 I am Bruce Roshanravan
-- 👀 I’m interested in Software Development specializing in JAVA, AWS, SQl and no sql databases
+- 👀 I’m interested in Software Development specializing in JAVA, AWS, SQL (relational) and no sql databases
 - 🌱 I’m currently learning Reactive Programming and AWS
 - 💞️ I’m looking to collaborate on software Development for potential customers
 -    Linkenin profile: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/
