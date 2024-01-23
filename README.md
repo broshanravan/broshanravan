@@ -1,13 +1,27 @@
-- 👋 Bruce Roshanravan
-- 👀 Interested in Software Development specializing in JAVA, AWS, SQL (relational) and no sql databases
-- 🌱 Currently working Reactive Programming and advanced AWS
-- 💞️ I’m looking to collaborate on software Development for potential customers, whitind below repositories templates of a
-     few applications can be found that I developed for my customers (customer private data has been excluded)
-- Linkenin profile: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/
-- 📫 You can email me on:
-- broshanrvan@mehrcopmutersystems.com
-- broshanravan@hotmail.com
-- Company website: http://www.mehrcomputersystems.com/
+- Bruce Roshanravan
+- Interested in Software Development
+  
+- Specializing in
+  
+**-      JAVA
+-      AWS
+-      SQL (relational)
+-      nosql databases
+-      HTML
+-      Javascript**
+     
+  
+- Currently working Reactive Programming and advanced AWS
+- Looking to collaborate on software Development for potential customers,
+     The following repositories templates of a
+     few applications can be found that I developed for my customers (customer private data has been excluded) as well as code for
+     exploration of new technologies that potentialy could be used to implement high level application for our current and futie customers.
+  
+- **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
+- You can email me on:
+- **Company**: broshanrvan@mehrcopmutersystems.com
+- **private** broshanravan@hotmail.com
+- **Company website**: http://www.mehrcomputersystems.com/
   
 <!---
 broshanravan/broshanravan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
