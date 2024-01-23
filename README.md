@@ -8,12 +8,12 @@
 
 - Development specialities:
   
-     JAVA
-     AWS
-     SQL (relational)
-     nosql (Mongo. Dynamo)
-     HTML
-     Javascript
+     -JAVA
+     -AWS
+     -SQL (relational)
+     -nosql (Mongo. Dynamo)
+     -HTML
+     -Javascript
   
 - **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
 - You can email me on:
