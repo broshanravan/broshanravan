@@ -1,7 +1,12 @@
 - Bruce Roshanravan
-- Interested in Software Development
-  
-- Specializing in
+- Interested in Software Development       
+- Currently working Reactive Programming and advanced AWS
+- Looking to collaborate on software Development for potential customers,
+     The following repositories templates of a
+     few applications can be found that I developed for my customers (customer private data has been excluded) as well as code for
+     exploration of new technologies that potentialy could be used to implement high level application for our current and futie customers.
+
+- Development specializities:
   
 - JAVA
 - AWS
@@ -9,13 +14,6 @@
 - nosql (Mongo. Dynamo)
 - HTML
 - Javascript
-     
-
-- Currently working Reactive Programming and advanced AWS
-- Looking to collaborate on software Development for potential customers,
-     The following repositories templates of a
-     few applications can be found that I developed for my customers (customer private data has been excluded) as well as code for
-     exploration of new technologies that potentialy could be used to implement high level application for our current and futie customers.
   
 - **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
 - You can email me on:
