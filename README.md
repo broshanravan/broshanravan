@@ -6,14 +6,14 @@
      few applications can be found that I developed for my customers (customer private data has been excluded) as well as code for
      exploration of new technologies that potentialy could be used to implement high level application for our current and futie customers.
 
-- Development specializities:
+- Development specialities:
   
-- JAVA
-- AWS
-- SQL (relational)
-- nosql (Mongo. Dynamo)
-- HTML
-- Javascript
+     JAVA
+     AWS
+     SQL (relational)
+     nosql (Mongo. Dynamo)
+     HTML
+     Javascript
   
 - **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
 - You can email me on:
