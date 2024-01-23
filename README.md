@@ -3,14 +3,14 @@
   
 - Specializing in
   
-**-      JAVA
--      AWS
--      SQL (relational)
--      nosql databases
--      HTML
--      Javascript**
+- JAVA
+- AWS
+- SQL (relational)
+- nosql (Mongo. Dynamo)
+- HTML
+- Javascript
      
-  
+
 - Currently working Reactive Programming and advanced AWS
 - Looking to collaborate on software Development for potential customers,
      The following repositories templates of a
