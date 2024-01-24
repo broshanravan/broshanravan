@@ -4,10 +4,6 @@
 - Looking forward to collaborate whit other developers on software Development for current and potential
   customers,
 
-  The existing repositories on this account are a number of applications developed for our
-  customers (customer private data has been excluded).
-  It also includes codeings conducted for exploration of new technologies that potentialy could be used to implement high
-  level application for our current and futie customers.
 
 - Development specialities:
   
@@ -17,6 +13,11 @@
      - nosql (Mongo. Dynamo)
      - HTML
      - Javascript
+
+  Existing repositories on this account present a number of applications developed for our
+  customers (customer private data has been excluded).
+  It also includes codeings conducted for exploring new technologies that potentialy could be used to implement high
+  level application for our current and future customers.
   
 - **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
 - You can email me on:
