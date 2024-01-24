@@ -1,5 +1,5 @@
 - Bruce Roshanravan
-- Interested in Software Development       
+- Software Developer       
 - Currently working Reactive Programming and advanced AWS
 - Looking to collaborate on software Development for potential customers,
      The following repositories templates of a
