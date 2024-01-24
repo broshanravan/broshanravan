@@ -1,10 +1,13 @@
 - Bruce Roshanravan
 - Software Developer       
 - Currently working Reactive Programming and advanced AWS
-- Looking to collaborate on software Development for potential customers,
-     The following repositories templates of a
-     few applications can be found that I developed for my customers (customer private data has been excluded) as well as code for
-     exploration of new technologies that potentialy could be used to implement high level application for our current and futie customers.
+- Looking forward to collaborate whit other developers on software Development for current and potential
+  customers,
+
+  The existing repositories on this account are a number of applications developed for our
+  customers (customer private data has been excluded).
+  It also includes codeings conducted for exploration of new technologies that potentialy could be used to implement high
+  level application for our current and futie customers.
 
 - Development specialities:
   
