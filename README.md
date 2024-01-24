@@ -20,9 +20,9 @@
   level application for our current and future customers.
   
 - **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
-- You can email me on:
-- **Company**: broshanrvan@mehrcopmutersystems.com
-- **private** broshanravan@hotmail.com
+-  Emails:
+  - **Company**: broshanrvan@mehrcopmutersystems.com
+  - **private** broshanravan@hotmail.com
 - **Company website**: http://www.mehrcomputersystems.com/
   
 <!---
