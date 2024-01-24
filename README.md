@@ -21,8 +21,8 @@
   
 - **Linkenin profile**: https://www.linkedin.com/in/bruce-roshanravan-6bb6891/  
 -  Emails:
-  - **Company**: broshanrvan@mehrcopmutersystems.com
-  - **private** broshanravan@hotmail.com
+    - **Company**: broshanrvan@mehrcopmutersystems.com
+    - **private** broshanravan@hotmail.com
 - **Company website**: http://www.mehrcomputersystems.com/
   
 <!---
